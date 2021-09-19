@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @noecota
-- 👀 I’m interested in IA and Data / Database
+- 👀 I’m interested in IA and Data/Database
 - 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/bruna-cota-bbb825210/
-- Instagram: @_yinoe
+- LinkedIn: https://www.linkedin.com/in/brunacota/
+- Instagram: @brunacota
 
 <!---
 noecota/noecota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
