@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noecota
+- 👋 Hi, I’m @brunacota
 - 👀 I’m interested in IA and Data/Database
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/brunacota/
